@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "DeFi Integration",
+      "day": "Monday 6th November",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting with Client",
+      "day": "Friday 11th November",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Trip to Bora Bora",
+      "day": "Thursday 15th December",
+      "reminder": true
+    },
+    {
+      "text": "new task",
+      "day": "random date",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
